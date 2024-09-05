@@ -2,18 +2,18 @@
 
 Exercício aplicado pelo curso da DIO sobre Blockchain
 
-Clone o repositório
+:sheep: Clone o repositório
 
-Instale as dependências
+:wrench: Instale as dependências
 
-`**npm install**`
+**npm install**
 
 
-Rode o código, dentro da pasta raiz:
+:construction: Rode o código, dentro da pasta raiz:
 
-`**./src/createWallet.js**`
+**./src/createWallet.js**
 
-Será exibido no terminal:
+:key: Será exibido no terminal:
 ```terminal
 Endereço
 Chave Privada
