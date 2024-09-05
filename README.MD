@@ -11,7 +11,7 @@ Exercício aplicado pelo curso da DIO sobre Blockchain
 
 :construction: Rode o código, dentro da pasta raiz:
 
-**./src/createWallet.js**
+`./src/createWallet.js`
 
 :key: Será exibido no terminal:
 ```terminal
