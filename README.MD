@@ -6,7 +6,7 @@ Exercício aplicado pelo curso da DIO sobre Blockchain
 
 :wrench: Instale as dependências
 
-**npm install**
+`npm install`
 
 
 :construction: Rode o código, dentro da pasta raiz:
